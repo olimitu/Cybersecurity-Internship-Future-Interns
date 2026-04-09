@@ -12,7 +12,7 @@ This repository serves as a professional record of the hands-on technical projec
 **🔹 Task 1: Network Vulnerability Assessment**
 * **Objective:** Executed passive security assessments on a live test server to map open ports, identify unencrypted services, and pinpoint potential attack vectors.
 * **Tools & Skills:** Nmap, Port Analysis (HTTP/SSH), Technical Documentation.
-* 🔗 *In progress...*
+* 🔗 *[Task 01](https://github.com/olimitu/Cybersecurity-Internship-Future-Interns/tree/main/Task%2001%20FUTURE_CS_01)*
 
 **🔹 Task 2: Phishing Detection & Header Analysis**
 * **Objective:** Analyzed malicious email headers and social engineering vectors to extract technical indicators of compromise. Developed actionable defensive guidelines to boost organizational security awareness.
